@@ -29,4 +29,4 @@
   <a href="https://www.instagram.com/_andreleli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/fromLeli/fromLeli/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fromLELI/fromLELI/blob/output/github-contribution-grid-snake.svg)

@@ -1,5 +1,5 @@
 ### 👨🏼‍💻 from LELI import André! . . .  Seja bem vindo(a)!
-- 🧩 Atualmente estou trabalhando com análise de dados e analytics
+- 🧩 Trabalhando com análise de dados e analytics
 - 🧠 Estudando sobre o impacto de IA e Machine Learning no mercado financeiro
 - 💬 Fale comigo sobre Técnologia e Investimentos
 #

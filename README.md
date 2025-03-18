@@ -2,7 +2,13 @@
 ### Tudo Beleza? 😎 </br>
 Que tal me conhecer um pouco melhor? 👇🏼 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-ribeiro-l%C3%A9li-741a57180/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre.leli/)
+<a href="https://www.linkedin.com/in/andre-ribeiro-l%C3%A9li-741a57180/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/andre.leli/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+###
 
 - 💻 Profissional de Analytics com +6 anos de experiência.
 - 🔎 Entusiasta de temas relacionados a Inteligência Artificial aplicada ao Mercado Financeiro e a outros setores da Economia.
